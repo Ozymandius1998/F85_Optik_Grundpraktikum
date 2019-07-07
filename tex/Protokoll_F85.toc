@@ -1,0 +1,26 @@
+\babel@toc {english}{}
+\contentsline {paragraph}{Abstract}{}% 
+\contentsline {section}{\numberline {1}Introduction}{}% 
+\contentsline {section}{\numberline {2}Theory}{}% 
+\contentsline {subsection}{\numberline {2.1}Polarization}{}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Snell's law}{}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Malus law}{}% 
+\contentsline {subsubsection}{\numberline {2.1.3}Brewster's angle}{}% 
+\contentsline {subsubsection}{\numberline {2.1.4}Fresnel equations}{}% 
+\contentsline {subsubsection}{\numberline {2.1.5}Reflection and polarization}{}% 
+\contentsline {subsubsection}{\numberline {2.1.6}Birefringence}{}% 
+\contentsline {subsubsection}{\numberline {2.1.7}Wave plates}{}% 
+\contentsline {subsection}{\numberline {2.2}Electro-optical effect}{}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Pockels effect}{}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Pockels effect in a non-isotropic crystal}{}% 
+\contentsline {subsection}{\numberline {2.3}Acousto-optical effect}{}% 
+\contentsline {section}{\numberline {3}Experiment}{}% 
+\contentsline {subsection}{\numberline {3.1}Polarizers and wave plates}{}% 
+\contentsline {subsection}{\numberline {3.2}Electro-optical effect}{}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Phase shift due to electro-optical effect}{}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Manipulation of polarization and intensity}{}% 
+\contentsline {subsection}{\numberline {3.3}Acousto-optical effect}{}% 
+\contentsline {section}{\numberline {4}Results}{}% 
+\contentsline {section}{\numberline {5}Analysis}{}% 
+\contentsline {section}{\numberline {6}Summary}{}% 
+\contentsline {section}{\numberline {7}Discussion}{}% 

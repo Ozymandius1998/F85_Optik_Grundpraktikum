@@ -1,0 +1,59 @@
+\documentclass[12 pt]{article}
+
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[super]{natbib}
+\usepackage{subfig}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{xcolor}
+
+
+\graphicspath{ {../figures/} }
+
+\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{}\\}  % paragraph -> newline
+
+
+\begin{document}
+
+    \input{title_page}
+
+    \newpage
+    \tableofcontents
+    
+    \newpage
+    \listoffigures
+    
+    \newpage
+    \section{Introduction}
+
+    \newpage
+    \section{Theory}
+    \input{theory}
+
+    \newpage
+    \section{Experiment}
+    \input{experiment}
+
+    \newpage
+    \section{Results}
+    \input{results}
+
+    \newpage
+    \section{Analysis}
+    \input{analysis}
+
+    \newpage
+    \section{Summary}
+    \input{summary}
+
+    \newpage
+    \section{Discussion}
+    \input{discussion}
+
+\end{document}
