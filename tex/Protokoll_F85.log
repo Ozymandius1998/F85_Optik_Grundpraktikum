@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.11)  7 JUL 2019 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.11)  8 JUL 2019 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -171,8 +171,8 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count105
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/subfig/subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
@@ -191,19 +191,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \c@caption@flags=\count106
 \c@ContinuedFloat=\count107
 )
-\c@KVtest=\count108
-\sf@farskip=\skip48
-\sf@captopadj=\dimen130
-\sf@capskip=\skip49
-\sf@nearskip=\skip50
-\c@subfigure=\count109
-\c@subfigure@save=\count110
-\c@lofdepth=\count111
-\c@subtable=\count112
-\c@subtable@save=\count113
-\c@lotdepth=\count114
-\sf@top=\skip51
-\sf@bottom=\skip52
+\c@subfigure=\count108
+\c@subtable=\count109
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
@@ -284,16 +273,16 @@ LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen131
+\scratchcounter=\count110
+\scratchdimen=\dimen130
 \scratchbox=\box29
-\nofMPsegments=\count116
-\nofMParguments=\count117
+\nofMPsegments=\count111
+\nofMParguments=\count112
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen132
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen131
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
 \everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -343,7 +332,6 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (./title_page.tex
@@ -373,78 +361,158 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--24
 \openout4 = `Protokoll_F85.lof'.
 
  [3] [4] (./theory.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
  []
 
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 80--85
+[5]
+<../figures/refraction_and_reflection.png, id=26, 584.1825pt x 417.56pt>
+File: ../figures/refraction_and_reflection.png Graphic file (type png)
+<use ../figures/refraction_and_reflection.png>
+Package pdftex.def Info: ../figures/refraction_and_reflection.png  used on inpu
+t line 92.
+(pdftex.def)             Requested size: 300.29344pt x 214.64757pt.
+ [6 <../figures/refraction_and_reflection.png>]
+<../figures/half_wave_plate.png, id=32, 642.4pt x 469.755pt>
+File: ../figures/half_wave_plate.png Graphic file (type png)
+<use ../figures/half_wave_plate.png>
+Package pdftex.def Info: ../figures/half_wave_plate.png  used on input line 116
+.
+(pdftex.def)             Requested size: 250.24199pt x 182.98868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
-[7]
-<../figures/acousto_optical_effect_deformation.png, id=35, 419.5675pt x 221.828
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
+
+ []
+
+[7 <../figures/half_wave_plate.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 131--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--204
+
+ []
+
+[8]
+<../figures/optical_diode.png, id=44, 343.2825pt x 187.70125pt>
+File: ../figures/optical_diode.png Graphic file (type png)
+<use ../figures/optical_diode.png>
+Package pdftex.def Info: ../figures/optical_diode.png  used on input line 255.
+(pdftex.def)             Requested size: 250.24199pt x 136.826pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+<../figures/acousto_optical_effect_deformation.png, id=48, 419.5675pt x 221.828
 75pt>
 File: ../figures/acousto_optical_effect_deformation.png Graphic file (type png)
 
 <use ../figures/acousto_optical_effect_deformation.png>
 Package pdftex.def Info: ../figures/acousto_optical_effect_deformation.png  use
-d on input line 135.
-(pdftex.def)             Requested size: 250.24199pt x 132.30621pt.
-<../figures/acousto_optical_effect_interference.png, id=37, 256.96pt x 196.735p
+d on input line 283.
+(pdftex.def)             Requested size: 283.708pt x 150.0pt.
+
+Overfull \hbox (33.466pt too wide) in paragraph at lines 283--284
+ [][] 
+ []
+
+<../figures/acousto_optical_effect_interference.png, id=49, 256.96pt x 196.735p
 t>
 File: ../figures/acousto_optical_effect_interference.png Graphic file (type png
 )
 <use ../figures/acousto_optical_effect_interference.png>
 Package pdftex.def Info: ../figures/acousto_optical_effect_interference.png  us
-ed on input line 145.
-(pdftex.def)             Requested size: 250.24199pt x 191.59518pt.
- [8 <../figures/acousto_optical_effect_deformation.png> <../figures/acousto_opt
-ical_effect_interference.png>]) [9] (./experiment.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+ed on input line 289.
+(pdftex.def)             Requested size: 195.91504pt x 150.0pt.
+[10 <../figures/optical_diode.png> <../figures/acousto_optical_effect_deformati
+on.png> <../figures/acousto_optical_effect_interference.png>]) [11]
+(./experiment.tex
+<../figures/wave_plate_setup1.png, id=60, 270.00874pt x 243.91125pt>
+File: ../figures/wave_plate_setup1.png Graphic file (type png)
+<use ../figures/wave_plate_setup1.png>
+Package pdftex.def Info: ../figures/wave_plate_setup1.png  used on input line 4
+0.
+(pdftex.def)             Requested size: 200.19435pt x 180.84879pt.
+<../figures/wave_plate_setup2.png, id=61, 243.91125pt x 223.83624pt>
+File: ../figures/wave_plate_setup2.png Graphic file (type png)
+<use ../figures/wave_plate_setup2.png>
+Package pdftex.def Info: ../figures/wave_plate_setup2.png  used on input line 4
+6.
+(pdftex.def)             Requested size: 200.19435pt x 183.71767pt.
+ [12] [13 <../figures/wave_plate_setup1.png> <../figures/wave_plate_setup2.png>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 66--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--71
+
+ []
+
+<../figures/mach_zehnder_interferometer.png, id=71, 486.81876pt x 221.82875pt>
+File: ../figures/mach_zehnder_interferometer.png Graphic file (type png)
+<use ../figures/mach_zehnder_interferometer.png>
+Package pdftex.def Info: ../figures/mach_zehnder_interferometer.png  used on in
+put line 100.
+(pdftex.def)             Requested size: 375.36299pt x 171.04219pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15 <../figures/mach_zehnder_interferometer.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 123.
+
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
-) [10]
-(./results.tex) [11] (./analysis.tex) [12] (./summary.tex) [13]
-(./discussion.tex) [14] (./Protokoll_F85.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
+) [16]
+(./results.tex) [17] (./analysis.tex) [18] (./summary.tex) [19]
+(./discussion.tex) [20] (./Protokoll_F85.aux) ) 
 Here is how much of TeX's memory you used:
- 5360 strings out of 492616
- 77828 string characters out of 6129481
- 173697 words of memory out of 5000000
- 9167 multiletter control sequences out of 15000+600000
- 10102 words of font info for 38 fonts, out of 8000000 for 9000
+ 5319 strings out of 492616
+ 77926 string characters out of 6129481
+ 175241 words of memory out of 5000000
+ 9121 multiletter control sequences out of 15000+600000
+ 10402 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,7n,42p,280b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,9n,40p,287b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pu
-blic/amsfonts/symbols/msbm10.pfb>
-Output written on Protokoll_F85.pdf (14 pages, 229118 bytes).
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb>
+Output written on Protokoll_F85.pdf (20 pages, 468778 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
