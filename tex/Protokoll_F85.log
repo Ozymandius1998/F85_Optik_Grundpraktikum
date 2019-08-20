@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.11)  9 JUL 2019 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.11)  19 AUG 2019 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -356,11 +356,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--24
 \tf@toc=\write3
 \openout3 = `Protokoll_F85.toc'.
 
- [3] (./Protokoll_F85.lof)
+ (./Protokoll_F85.lof)
 \tf@lof=\write4
 \openout4 = `Protokoll_F85.lof'.
 
- [4] [5] (./theory.tex
+ [3] [4] (./theory.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
@@ -375,15 +375,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
  []
 
-[6]
-<../figures/refraction_and_reflection.png, id=29, 584.1825pt x 417.56pt>
+[5]
+<../figures/refraction_and_reflection.png, id=26, 584.1825pt x 417.56pt>
 File: ../figures/refraction_and_reflection.png Graphic file (type png)
 <use ../figures/refraction_and_reflection.png>
 Package pdftex.def Info: ../figures/refraction_and_reflection.png  used on inpu
 t line 92.
 (pdftex.def)             Requested size: 300.29344pt x 214.64757pt.
- [7 <../figures/refraction_and_reflection.png>]
-<../figures/half_wave_plate.png, id=36, 642.4pt x 469.755pt>
+ [6 <../figures/refraction_and_reflection.png>]
+<../figures/half_wave_plate.png, id=32, 642.4pt x 469.755pt>
 File: ../figures/half_wave_plate.png Graphic file (type png)
 <use ../figures/half_wave_plate.png>
 Package pdftex.def Info: ../figures/half_wave_plate.png  used on input line 116
@@ -399,7 +399,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
-[8 <../figures/half_wave_plate.png>]
+[7 <../figures/half_wave_plate.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 131--136
 
  []
@@ -409,8 +409,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--204
 
  []
 
-[9]
-<../figures/optical_diode.png, id=47, 343.2825pt x 187.70125pt>
+[8]
+<../figures/optical_diode.png, id=44, 343.2825pt x 187.70125pt>
 File: ../figures/optical_diode.png Graphic file (type png)
 <use ../figures/optical_diode.png>
 Package pdftex.def Info: ../figures/optical_diode.png  used on input line 255.
@@ -419,8 +419,8 @@ Package pdftex.def Info: ../figures/optical_diode.png  used on input line 255.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10]
-<../figures/acousto_optical_effect_deformation.png, id=51, 419.5675pt x 221.828
+[9]
+<../figures/acousto_optical_effect_deformation.png, id=48, 419.5675pt x 221.828
 75pt>
 File: ../figures/acousto_optical_effect_deformation.png Graphic file (type png)
 
@@ -433,7 +433,7 @@ Overfull \hbox (33.466pt too wide) in paragraph at lines 283--284
  [][] 
  []
 
-<../figures/acousto_optical_effect_interference.png, id=52, 256.96pt x 196.735p
+<../figures/acousto_optical_effect_interference.png, id=49, 256.96pt x 196.735p
 t>
 File: ../figures/acousto_optical_effect_interference.png Graphic file (type png
 )
@@ -441,8 +441,8 @@ File: ../figures/acousto_optical_effect_interference.png Graphic file (type png
 Package pdftex.def Info: ../figures/acousto_optical_effect_interference.png  us
 ed on input line 289.
 (pdftex.def)             Requested size: 195.91504pt x 150.0pt.
-[11 <../figures/optical_diode.png> <../figures/acousto_optical_effect_deformati
-on.png> <../figures/acousto_optical_effect_interference.png>]) [12]
+[10 <../figures/optical_diode.png> <../figures/acousto_optical_effect_deformati
+on.png> <../figures/acousto_optical_effect_interference.png>]) [11]
 (./experiment.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
@@ -463,7 +463,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--32
 
  []
 
-[13]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 51--62
 
  []
@@ -478,13 +478,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--77
 
  []
 
-<../figures/wave_plate_setup1.png, id=67, 243.91125pt x 223.83624pt>
+<../figures/wave_plate_setup1.png, id=63, 243.91125pt x 223.83624pt>
 File: ../figures/wave_plate_setup1.png Graphic file (type png)
 <use ../figures/wave_plate_setup1.png>
 Package pdftex.def Info: ../figures/wave_plate_setup1.png  used on input line 1
 05.
 (pdftex.def)             Requested size: 200.19435pt x 183.71767pt.
-<../figures/wave_plate_setup2.png, id=68, 270.00874pt x 243.91125pt>
+<../figures/wave_plate_setup2.png, id=64, 270.00874pt x 243.91125pt>
 File: ../figures/wave_plate_setup2.png Graphic file (type png)
 <use ../figures/wave_plate_setup2.png>
 Package pdftex.def Info: ../figures/wave_plate_setup2.png  used on input line 1
@@ -498,18 +498,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--118
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 158--169
 
  []
 
-[15 <../figures/wave_plate_setup1.png> <../figures/wave_plate_setup2.png>]
+[14 <../figures/wave_plate_setup1.png> <../figures/wave_plate_setup2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 203--209
 
  []
 
-[16]
-<../figures/mach_zehnder_interferometer.png, id=80, 486.81876pt x 221.82875pt>
+[15]
+<../figures/mach_zehnder_interferometer.png, id=77, 486.81876pt x 221.82875pt>
 File: ../figures/mach_zehnder_interferometer.png Graphic file (type png)
 <use ../figures/mach_zehnder_interferometer.png>
 Package pdftex.def Info: ../figures/mach_zehnder_interferometer.png  used on in
@@ -520,8 +520,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--233
 
  []
 
-[17 <../figures/mach_zehnder_interferometer.png>]
-<../figures/manipulation_of_polarization_and_intensity.png, id=85, 406.51875pt 
+[16 <../figures/mach_zehnder_interferometer.png>]
+<../figures/manipulation_of_polarization_and_intensity.png, id=82, 406.51875pt 
 x 219.82124pt>
 File: ../figures/manipulation_of_polarization_and_intensity.png Graphic file (t
 ype png)
@@ -539,44 +539,128 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--255
 
  []
 
-[18 <../figures/manipulation_of_polarization_and_intensity.png>] [19] [20]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 309.
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--265
+
+ []
+
+[17 <../figures/manipulation_of_polarization_and_intensity.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 323--335
+
+ []
 
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+Underfull \hbox (badness 10000) in paragraph at lines 323--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--373
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 386--392
+
+ []
+
+
+LaTeX Warning: Reference `setup_2aom' on page 19 undefined on input line 397.
+
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 309.
-) [21]
-(./results.tex) [22] (./analysis.tex) [23] (./summary.tex) [24]
-(./discussion.tex) [25] (./bibliography.tex) [26] (./Protokoll_F85.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--41
+
+ []
+
+[19] [20] (./results.tex) [21] (./analysis.tex) [22] (./summary.tex) [23]
+(./discussion.tex) [24] (./bibliography.tex) [25] (./Protokoll_F85.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5332 strings out of 492616
- 78351 string characters out of 6129481
+ 5316 strings out of 492616
+ 78061 string characters out of 6129481
  175265 words of memory out of 5000000
- 9130 multiletter control sequences out of 15000+600000
+ 9117 multiletter control sequences out of 15000+600000
  10571 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,9n,40p,287b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Protokoll_F85.pdf (26 pages, 538146 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Protokoll_F85.pdf (25 pages, 543550 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

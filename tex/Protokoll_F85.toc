@@ -1,50 +1,46 @@
 \babel@toc {english}{}
 \contentsline {paragraph}{Abstract}{1}% 
-\contentsline {section}{\numberline {1}Introduction}{5}% 
-\contentsline {section}{\numberline {2}Theory}{6}% 
-\contentsline {subsection}{\numberline {2.1}Polarization}{6}% 
-\contentsline {subsubsection}{\numberline {2.1.1}Snell's law}{6}% 
-\contentsline {subsubsection}{\numberline {2.1.2}Malus law}{6}% 
-\contentsline {subsubsection}{\numberline {2.1.3}Brewster's angle}{6}% 
-\contentsline {subsubsection}{\numberline {2.1.4}Fresnel equations}{7}% 
-\contentsline {subsubsection}{\numberline {2.1.5}Reflection and polarization}{7}% 
-\contentsline {subsubsection}{\numberline {2.1.6}Birefringence}{8}% 
-\contentsline {subsubsection}{\numberline {2.1.7}Wave plates}{8}% 
-\contentsline {subsection}{\numberline {2.2}Electro-optical effect}{9}% 
-\contentsline {subsubsection}{\numberline {2.2.1}Pockels effect (linear electro-optical effect)}{9}% 
-\contentsline {subsubsection}{\numberline {2.2.2}Pockels effect in a non-isotropic crystal}{9}% 
-\contentsline {subsubsection}{\numberline {2.2.3}Pockels cell}{10}% 
-\contentsline {subsubsection}{\numberline {2.2.4}Faraday effect}{10}% 
-\contentsline {subsubsection}{\numberline {2.2.5}Optical isolator}{10}% 
-\contentsline {subsection}{\numberline {2.3}Acousto-optical effect}{11}% 
-\contentsline {section}{\numberline {3}Experiment}{13}% 
-\contentsline {subsection}{\numberline {3.1}Polarizers and wave plates}{13}% 
-\contentsline {subsubsection}{\numberline {3.1.1}Brewster's angle}{13}% 
-\contentsline {subsubsection}{\numberline {3.1.2}Second glass plate}{13}% 
-\contentsline {subsubsection}{\numberline {3.1.3}Polarizers}{14}% 
-\contentsline {subsubsection}{\numberline {3.1.4}Beam splitters}{14}% 
-\contentsline {subsubsection}{\numberline {3.1.5}Half-waveplates}{14}% 
-\contentsline {subsubsection}{\numberline {3.1.6}Quarter-waveplates}{14}% 
-\contentsline {subsubsection}{\numberline {3.1.7}Setup from fig. \ref {wave_plate_setup}}{14}% 
-\contentsline {subsubsection}{\numberline {3.1.8}Mirror between quarter-waveplates}{15}% 
-\contentsline {subsubsection}{\numberline {3.1.9}Reflection back into quarter-waveplate}{15}% 
-\contentsline {subsubsection}{\numberline {3.1.10}Reflection back into half-waveplate}{15}% 
-\contentsline {subsubsection}{\numberline {3.1.11}Mirror}{15}% 
-\contentsline {subsubsection}{\numberline {3.1.12}Lamp light through optical isolator}{15}% 
-\contentsline {subsection}{\numberline {3.2}Electro-optical effect}{16}% 
-\contentsline {subsubsection}{\numberline {3.2.1}Measurement of amplification}{16}% 
-\contentsline {subsubsection}{\numberline {3.2.2}Calibration of Pockels cell}{16}% 
-\contentsline {subsubsection}{\numberline {3.2.3}Mach-Zehnder interferometer}{16}% 
-\contentsline {subsubsection}{\numberline {3.2.4}Manipulation of polarization and intensity}{18}% 
-\contentsline {subsubsection}{\numberline {3.2.5}Linear amplitude modulation}{18}% 
-\contentsline {subsubsection}{\numberline {3.2.6}Phase shift due to electro-optical modulation}{19}% 
-\contentsline {subsubsection}{\numberline {3.2.7}Mach-Zehnder interferometer}{19}% 
-\contentsline {subsubsection}{\numberline {3.2.8}Manipulation of polarization and intensity}{19}% 
-\contentsline {subsubsection}{\numberline {3.2.9}Linear amplitude modulation}{19}% 
-\contentsline {subsection}{\numberline {3.3}Acousto-optical effect}{21}% 
-\contentsline {subsubsection}{\numberline {3.3.1}Experiments with a single AOM}{21}% 
-\contentsline {subsubsection}{\numberline {3.3.2}Two perpendicular AOMs}{21}% 
-\contentsline {section}{\numberline {4}Results}{22}% 
-\contentsline {section}{\numberline {5}Analysis}{23}% 
-\contentsline {section}{\numberline {6}Summary}{24}% 
-\contentsline {section}{\numberline {7}Discussion}{25}% 
+\contentsline {section}{\numberline {1}Introduction}{4}% 
+\contentsline {section}{\numberline {2}Theory}{5}% 
+\contentsline {subsection}{\numberline {2.1}Polarization}{5}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Snell's law}{5}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Malus law}{5}% 
+\contentsline {subsubsection}{\numberline {2.1.3}Brewster's angle}{5}% 
+\contentsline {subsubsection}{\numberline {2.1.4}Fresnel equations}{6}% 
+\contentsline {subsubsection}{\numberline {2.1.5}Reflection and polarization}{6}% 
+\contentsline {subsubsection}{\numberline {2.1.6}Birefringence}{7}% 
+\contentsline {subsubsection}{\numberline {2.1.7}Wave plates}{7}% 
+\contentsline {subsection}{\numberline {2.2}Electro-optical effect}{8}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Pockels effect (linear electro-optical effect)}{8}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Pockels effect in a non-isotropic crystal}{8}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Pockels cell}{9}% 
+\contentsline {subsubsection}{\numberline {2.2.4}Faraday effect}{9}% 
+\contentsline {subsubsection}{\numberline {2.2.5}Optical isolator}{9}% 
+\contentsline {subsection}{\numberline {2.3}Acousto-optical effect}{10}% 
+\contentsline {section}{\numberline {3}Experiment}{12}% 
+\contentsline {subsection}{\numberline {3.1}Polarizers and wave plates}{12}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Brewster's angle}{12}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Second glass plate}{12}% 
+\contentsline {subsubsection}{\numberline {3.1.3}Polarizers}{13}% 
+\contentsline {subsubsection}{\numberline {3.1.4}Beam splitters}{13}% 
+\contentsline {subsubsection}{\numberline {3.1.5}Half-waveplates}{13}% 
+\contentsline {subsubsection}{\numberline {3.1.6}Quarter-waveplates}{13}% 
+\contentsline {subsubsection}{\numberline {3.1.7}Setup from fig. \ref {wave_plate_setup}}{13}% 
+\contentsline {subsubsection}{\numberline {3.1.8}Mirror between quarter-waveplates}{14}% 
+\contentsline {subsubsection}{\numberline {3.1.9}Reflection back into quarter-waveplate}{14}% 
+\contentsline {subsubsection}{\numberline {3.1.10}Reflection back into half-waveplate}{14}% 
+\contentsline {subsubsection}{\numberline {3.1.11}Mirror}{14}% 
+\contentsline {subsubsection}{\numberline {3.1.12}Lamp light through optical isolator}{14}% 
+\contentsline {subsection}{\numberline {3.2}Electro-optical effect}{15}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Measurement of amplification}{15}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Calibration of Pockels cell}{15}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Mach-Zehnder interferometer}{15}% 
+\contentsline {subsubsection}{\numberline {3.2.4}Manipulation of polarization and intensity}{17}% 
+\contentsline {subsubsection}{\numberline {3.2.5}Linear amplitude modulation}{17}% 
+\contentsline {subsection}{\numberline {3.3}Acousto-optical effect}{18}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Experiments with a single AOM}{18}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Experiments with two perpendicular AOMs}{19}% 
+\contentsline {section}{\numberline {4}Results}{21}% 
+\contentsline {section}{\numberline {5}Analysis}{22}% 
+\contentsline {section}{\numberline {6}Summary}{23}% 
+\contentsline {section}{\numberline {7}Discussion}{24}% 
